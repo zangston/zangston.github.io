@@ -1,5 +1,5 @@
 # zangston.github.io
-My (work-in-progress )portfolio site for people interested in my background. Hi employers!
+My (work-in-progress) portfolio site for people interested in my background. Hi employers!
 
 View this site at https://zangston.github.io
 
